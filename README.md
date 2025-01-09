@@ -137,6 +137,8 @@ ct="CD4_NC"
 
 ## Running the pipeline
 
+Please run the first two steps for all the bam files firstly, and then run the third step for each cell type. 
+
 ### Extract intron junctions from BAM files 
 
 *Of note, this step requires a large amount of RAM when processing large BAM files (refer to #1 in the above section).*
